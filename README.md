@@ -3,9 +3,9 @@
   ##
 <div>
 <a href="https://github.com/arthurcamposm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurcamposm&show_icons=true&theme=transparent&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurcamposm&show_icons=true&theme=transparent&rank_icon=github&disable_animations=false"/>
   <a href="https://github.com/arthurcamposm"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcamposm&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcamposm&theme=transparent&disable_animations=false"/>
 </div>
 
 <div>
