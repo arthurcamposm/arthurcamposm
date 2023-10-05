@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @arthurcamposm
-- 👀 I’m interested in Programing
-- 🌱 I’m currently in the beggining of learning Python, HTML5, CSS and IT Student
-- 📫 How to reach me: LinkedIn -> https://www.linkedin.com/in/arthur-campos-5b5421286/ Instagram -> https://www.instagram.com/arthurcamposm/
+## Hi, I’m Arthur Campos
+- I’m currently learning Python, HTML5, CSS and IT Student
+  ##
+<div>
+<a href="https://github.com/arthurcamposm">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurcamposm&show_icons=true&theme=transparent&rank_icon=github"/>
+  <a href="https://github.com/arthurcamposm"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcamposm&theme=transparent"/>
+</div>
 
-<!---
-arthurcamposm/arthurcamposm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="https://www.instagram/arthurcamposm"><img height="35em" width="150em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+  <a href="https://www.linkedin.com/in/arthur-campos-5b5421286/"><img height="35em" width="150em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+</div>
