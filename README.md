@@ -1,5 +1,5 @@
 ## Hi, I’m Arthur Campos
-- I’m currently IT Student, actually focusing on improve my skills on cybersecurity.
+- I’m a IT Student, at the moment focusing on improve my skills on cybersecurity.
   ##
 
 <div>
